@@ -23,10 +23,10 @@
         <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Batch Request</a>
+        <a class="nav-link" href="/batch/request">Batch Request</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Exam Request</a>
+        <a class="nav-link" href="/exam/request">Exam Request</a>
       </li>
       <!-- 
       <li class="nav-item dropdown">
